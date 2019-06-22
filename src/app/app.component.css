@@ -1,0 +1,17 @@
+header{
+    background-color: purple;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+section{
+    display: flex;
+}
+
+article{
+    background-color: lightblue;
+    padding:10px;
+    margin: 10px;
+}
